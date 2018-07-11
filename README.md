@@ -30,3 +30,10 @@ httpAuth:
 	password: ***
 	title: 'Frontend authentication' # [optional]
 ```
+
+If you want to specify concrete URLs to be secured, add option:
+
+```
+httpAuth:
+   secured_urls: ['/homepage/export']
+```
