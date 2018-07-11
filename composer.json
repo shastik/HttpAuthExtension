@@ -1,13 +1,13 @@
 
 {
-	"name": "uestla/http-auth-extension",
+	"name": "shastik/http-auth-extension",
 	"type": "library",
 	"description": "Simple frontend HTTP Authenticator extension for Nette Framework",
 	"keywords": ["nette", "orm", "database"],
-	"homepage": "http://github.com/uestla/HttpAuthExtension",
+	"homepage": "http://github.com/shastik/HttpAuthExtension",
 	"license": "MIT",
 	"support": {
-		"issues": "http://github.com/uestla/HttpAuthExtension/issues"
+		"issues": "http://github.com/shastik/HttpAuthExtension/issues"
 	},
 	"require": {
 		"php": ">=5.3.0",

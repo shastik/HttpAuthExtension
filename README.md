@@ -4,7 +4,15 @@ HttpAuthExtension
 Installation:
 
 ```
-composer require "uestla/http-auth-extension":"*"
+	"require": {
+		"shastik/http-auth-extension": "dev-master"
+	},
+	"repositories": [
+		{
+			"type": "git",
+			"url": "https://github.com/shastik/http-auth-extension.git"
+		}
+	],
 ```
 
 
